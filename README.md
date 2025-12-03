@@ -25,7 +25,7 @@ This consolidated repository gathers all TMPS labs into one unified structure.
 ## 📦 Project Structure
 Overview
 
-All laboratory works completed throughout this course (creational, behavioral, and structural design patterns) were developed using a single consistent project: the Coffee Ordering System. Each laboratory extends the same system by adding new functionalities, improving its architecture, and applying different categories of design patterns. The Coffee Ordering System serves as the common foundation on which all design pattern implementations were built, ensuring continuity, reusability, and clear demonstration of how each pattern contributes to a scalable and maintainable software solution.
+All laboratory works completed throughout this course (creational, behavioral, and structural design patterns) were developed using a single consistent project: the Coffee Ordering System (🥐☕ Local Bistro). Each laboratory extends the same system by adding new functionalities, improving its architecture, and applying different categories of design patterns. The Coffee Ordering System serves as the common foundation on which all design pattern implementations were built, ensuring continuity, reusability, and clear demonstration of how each pattern contributes to a scalable and maintainable software solution.
 
 
 
