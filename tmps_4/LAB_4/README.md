@@ -1,4 +1,4 @@
-# Behavioral Design Patterns
+# Behavioral Design Patterns, Local Bistro 🥐☕
 
 ## Author: Condrea Loredana, Group FAF-231
 
