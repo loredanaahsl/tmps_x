@@ -124,9 +124,6 @@ Later, the system prompted me to add another drink, and I selected a default con
 ![drink2.png](drink2.png)
 
 A summary of the drink was displayed, including base price and loyalty discount.
-
-![img_3.png](img_3.png)
-
 Then, the program asked if i wanted to add a new drink, to which i added a customized latte.
 
 ![customlatte.png](customlatte.png)
